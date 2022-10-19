@@ -1,6 +1,6 @@
 # vibe.broker
 welcome to my void
-&nbsp;
+<br>
 come build with us anon
 #### Stacks
 // Blockchain // Meta-Economics // **Crypto** *Commodity* ~~Trades~~
