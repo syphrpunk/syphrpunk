@@ -4,7 +4,7 @@ come build with us anon
 #### Stacks
 // Blockchain // Meta-Economics // **Crypto** *Commodity* ~~Trades~~
 // NFTs // DeFi // Web3 //
-dao
+#### dao
 .governance
 .policies
 .structures
