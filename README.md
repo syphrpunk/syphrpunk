@@ -20,3 +20,4 @@ come build with us anon
 <a href="https://t.me/dk_premia" target="_blank" >telegram</a>
 <a href="https://discordapp.com/users/596555154313183242" target="_blank" >discord</a>
 <a href="https://twitter.com/dk3anon" target="_blank" >twitter</a>
+<a href="https://mirror.xyz/dk.3anon.eth" target="_blank" >mirror</a>
