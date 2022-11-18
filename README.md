@@ -24,3 +24,4 @@ come build with us anon
 <a href="https://discordapp.com/users/596555154313183242" target="_blank" >discord</a>
 <a href="https://twitter.com/dk3anon" target="_blank" >twitter</a>
 <a href="https://mirror.xyz/dk.3anon.eth" target="_blank" >mirror</a>
+<a href="farcaster://profiles/0xcbd6E0Bfb7466fC1ed26418048756bD1386Ce650" target="_blank" >farcaster</a>
