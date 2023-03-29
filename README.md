@@ -25,3 +25,4 @@ come build with us anon
 <a href="https://twitter.com/dk3anon" target="_blank" >twitter</a>
 <a href="https://mirror.xyz/dk.3anon.eth" target="_blank" >mirror</a>
 <a href="https://www.discove.xyz/profiles/vibe" target="_blank" >farcaster</a>
+<a href="https://lenster.xyz/u/viibe" target="_blank" >lens</a>
